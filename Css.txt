@@ -1,0 +1,49 @@
+div.main-container-images{
+    position: absolute;
+}
+div.main-container-images img{
+    display: flex;
+    position: relative;
+    width: 50%;
+    height: auto;
+}
+div.main-container-images div.main-cotainer-images-marco {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px solid white;
+}
+.box {
+    border-top: 5px solid green;
+    border-left: 5px solid green;
+    border-bottom: 5px solid green;
+    border-right: 5px solid green;   
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.block {
+    position: absolute;
+    background-color: white;
+    top: 50px;
+    left: 25px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+________________________________________________________________________
+style
+.fondo{
+    border-top: 5px solid green;
+    border-left: 5px solid green;
+    border-bottom: 5px solid green;
+    border-right: 5px solid green;   
+}
